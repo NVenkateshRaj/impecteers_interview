@@ -1,0 +1,4 @@
+enum UserEvents{
+  fetchUserList,
+  fetchUserDetails
+}
